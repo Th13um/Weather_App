@@ -1,5 +1,4 @@
-#Web Start Base
+#Weather App
 
-Start base for work on my website.
-
-Feel free to step up my game !
+Weather App, create by Mathieu Dupré Fontana, 2017
+For Free Code Camp.
