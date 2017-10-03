@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #AAA!important;
+}
+.weather{
+  display: block;
+  padding: 20px;
+  background-color: #fff;
+  height: auto;
+  width: auto;
+  margin: 20vh auto;
+  border: 0px;
+  border-radius: 5px !important;
+  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.6);
+  overflow: auto;
+}
+.card{
+  position: absolute;
+  height: auto;
+  width: auto;
+  font-size: 200%
+}
+.icon img{
+  padding: 10px;
+  height: 200px;
+  width: auto;
+}
